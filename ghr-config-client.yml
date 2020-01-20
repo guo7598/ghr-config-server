@@ -1,4 +1,2 @@
-server:
-  port: 8082
 config:
-  name: "配置中心"
+ name: "111"
