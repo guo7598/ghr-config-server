@@ -1,4 +1,4 @@
 config:
-  name: "111"
+  name: "ghr"
 server:
   port: 8082
