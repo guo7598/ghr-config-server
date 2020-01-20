@@ -1,2 +1,4 @@
 config:
   name: "111"
+server:
+  port: 8082
